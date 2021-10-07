@@ -4,9 +4,9 @@ Sprint Planning: team meeting before every sprint (organize) ->Sprint goal & bac
 Sprint Retroperspective: post-sprint discussion (what worked/didn't work, needs improvement) so next sprint is "better"
 
 Daily Scrum:
-  What did I work on:
-  What will I work on:
-  Do I have any problems?
+  What did I work on yesterday?
+  What am I working on today?
+  What issues are blocking me?
 
 Sprint Planning: 
   What should we get done until the next sprint:
